@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="RestaurantBookmarkCD" representedClassName="RestaurantBookmarkCD" syncable="YES">
+        <attribute name="cuisines" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rating" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rating_color" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="restaurant_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="restaurant_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="thumb" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="RestaurantReviewCD" representedClassName="RestaurantReviewCD" syncable="YES">
+        <attribute name="avatar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rating" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="review_text" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="user_level" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="RestaurantBookmarkCD" positionX="-54" positionY="36" width="128" height="150"/>
+        <element name="RestaurantReviewCD" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>

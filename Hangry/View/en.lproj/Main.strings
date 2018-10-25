@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "location"; ObjectID = "1gR-bw-pKi"; */
+"1gR-bw-pKi.text" = "location";
+
+/* Class = "UILabel"; text = "level"; ObjectID = "4KN-w1-cfx"; */
+"4KN-w1-cfx.text" = "level";
+
+/* Class = "UILabel"; text = "Carlton, Melbourne"; ObjectID = "4xe-UZ-6a1"; */
+"4xe-UZ-6a1.text" = "Carlton, Melbourne";
+
+/* Class = "UILabel"; text = "Level"; ObjectID = "7Ah-oo-xKO"; */
+"7Ah-oo-xKO.text" = "Level";
+
+/* Class = "UIViewController"; title = "Rstaurant"; ObjectID = "8rJ-Kc-sve"; */
+"8rJ-Kc-sve.title" = "Rstaurant";
+
+/* Class = "UILabel"; text = "Loaded by FirstViewController"; ObjectID = "A5M-7J-77L"; */
+"A5M-7J-77L.text" = "Loaded by FirstViewController";
+
+/* Class = "UILabel"; text = "Review"; ObjectID = "IeY-sk-Qzy"; */
+"IeY-sk-Qzy.text" = "Review";
+
+/* Class = "UILabel"; text = "Humble Rays"; ObjectID = "J81-oe-Yja"; */
+"J81-oe-Yja.text" = "Humble Rays";
+
+/* Class = "UILabel"; text = "First View"; ObjectID = "KQZ-1w-vlD"; */
+"KQZ-1w-vlD.text" = "First View";
+
+/* Class = "UILabel"; text = "review text"; ObjectID = "VwH-hO-cYC"; */
+"VwH-hO-cYC.text" = "review text";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "WMg-Wz-YlB"; */
+"WMg-Wz-YlB.title" = "Item";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "YpO-r5-joz"; */
+"YpO-r5-joz.text" = "Rating";
+
+/* Class = "UITabBarItem"; title = "First"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "First";
+
+/* Class = "UILabel"; text = "userName"; ObjectID = "b5i-Ok-1GB"; */
+"b5i-Ok-1GB.text" = "userName";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "bEs-6M-OdF"; */
+"bEs-6M-OdF.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Second"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Second";
+
+/* Class = "UILabel"; text = "4.7"; ObjectID = "eV1-HX-gMM"; */
+"eV1-HX-gMM.text" = "4.7";
+
+/* Class = "UILabel"; text = "Resturant Name"; ObjectID = "jE6-Uo-5Bf"; */
+"jE6-Uo-5Bf.text" = "Resturant Name";
+
+/* Class = "UILabel"; text = "Cafe- Coffee and  Tea, Cafe Food"; ObjectID = "kVR-v9-EkX"; */
+"kVR-v9-EkX.text" = "Cafe- Coffee and  Tea, Cafe Food";
+
+/* Class = "UILabel"; text = "cuisines"; ObjectID = "kqL-lL-JWq"; */
+"kqL-lL-JWq.text" = "cuisines";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "r3h-c1-kGt"; */
+"r3h-c1-kGt.text" = "time";
+
+/* Class = "UILabel"; text = "RESTAURANT"; ObjectID = "w8k-oz-Kov"; */
+"w8k-oz-Kov.text" = "RESTAURANT";
+
+/* Class = "UILabel"; text = " rating  "; ObjectID = "wJ0-y0-VzW"; */
+"wJ0-y0-VzW.text" = " rating  ";
